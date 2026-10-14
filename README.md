@@ -36,7 +36,7 @@ Using Power BI, I designed and developed an interactive dashboard that consolida
 
 ## Blinkit Sales Performance Dashboard Overview
 
-<img src="https://github.com/Sanketnaik-467/Blinkit-Sales-Performance-Dashboard/blob/31b95fcfbf2474822ea34361527ae7c06931703c/Blinkit_Analysis_Dashboard.png" alt="Image Description" width="600">
+<img src="https://github.com/Sanketnaik-467/Ecommerce-sales-data-Excel-/blob/dcc11e802e55c6ae7cb82c0a8924c1f535d9b059/Ecommerce_Sales_Dashboard.png" alt="Image Description" width="600">
 
 ## Outcome
 
