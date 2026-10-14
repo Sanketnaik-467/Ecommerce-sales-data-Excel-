@@ -5,7 +5,7 @@
 
 This project presents an interactive **Blinkit Sales Performance Dashboard** developed using **Power BI** to analyze sales performance, outlet characteristics, product categories, and customer ratings. The dashboard transforms raw retail sales data into meaningful business insights, enabling users to monitor key performance indicators (KPIs), identify sales trends, evaluate outlet performance, and support data-driven business decisions through interactive visualizations and filters.
 
- [Click Here View Interactive Power BI Dashboard](https://github.com/Sanketnaik-467/Blinkit-Sales-Performance-Dashboard/blob/40b684ef2e6ad980ffdb933dca9ca79df1489817/Blinkit%20Sales%20Performance%20Analysis%20Dashboard.pbix)
+ [Click Here View Interactive Power BI Dashboard](https://github.com/Sanketnaik-467/Ecommerce-sales-data-Excel-/blob/3ccdf17e5bd7848ab9cedce2fb09896de928264d/Excel%20Sales%20Dashboard.xlsx)_
 <br><br>
 
 ## Business Challenge
